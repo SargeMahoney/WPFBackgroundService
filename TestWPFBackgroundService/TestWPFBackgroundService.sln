@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWPFBackgroundService", "TestWPFBackgroundService\TestWPFBackgroundService.csproj", "{FEA854E8-4B18-4599-A811-719F3A69A39B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA854E8-4B18-4599-A811-719F3A69A39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA854E8-4B18-4599-A811-719F3A69A39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA854E8-4B18-4599-A811-719F3A69A39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA854E8-4B18-4599-A811-719F3A69A39B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B74D4762-3831-4C70-A506-0824B3B16034}
+	EndGlobalSection
+EndGlobal
